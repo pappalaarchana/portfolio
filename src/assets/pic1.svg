@@ -1,0 +1,8 @@
+<svg width="419" height="280" viewBox="0 0 419 280" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <pattern id="pattern0" patternUnits="userSpaceOnUse" width="419" height="280">
+          <image href="C:\Users\ARCHANA\OneDrive\Pictures\Screenshots\Screenshot (142).png" width="419" height="280" preserveAspectRatio="xMidYMid slice" />
+        </pattern>
+      </defs>
+      <rect width="419" height="280" rx="10" fill="url(#pattern0)" />
+    </svg>
